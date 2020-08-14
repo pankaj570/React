@@ -1,0 +1,22 @@
+.card{
+    background-color:lightgrey;
+    width: auto;
+    align-self:auto;
+    margin-left: 0px;
+    
+   }
+  .list{
+      display: inline;
+      border: 1px lime ;
+      border-color: magenta;
+
+  } 
+  .button{
+      background-color:slategrey;
+      display: block;
+      border-radius: 20px;
+  }
+  .td{
+      border: 1px;
+      border-width: 2px;
+  }

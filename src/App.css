@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  color: brown;
+},
+
+.St{
+ background-color: brown;
+ font-size: medium;
+ font: inherit;
+ padding: 16px;
+ margin: auto;
+}
